@@ -12,9 +12,15 @@ User Interface: Interactive web application built with Streamlit for easy date i
 
 ## Technologies Used
 Programming Language: Python 3.x
+
 Libraries:
+
   Pandas for data manipulation
+  
   NumPy for numerical operations
+  
   Scikit-learn for machine learning and model implementation
+  
   Streamlit for building the interactive web application
+  
   Joblib for saving and loading the model
